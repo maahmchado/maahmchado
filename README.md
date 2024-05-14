@@ -1,16 +1,18 @@
-### Hi there 👋
+### Bem vindo ao meu perfil! 💚
 
-<!--
-**maahmchado/maahmchado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Maria Eduarda 
 
-Here are some ideas to get you started:
+- Estou cursando o [Alura](https://www.alura.com.br)
+- Estou me desnvolvendo na platarforma;
+- Uso esse espaço para a organização e compartilhamento dos meus projetos;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Voc~e pode entrar em contato comigo 📫
+
+maaduhvicente@gmail.com
+
+@maahmchado
+
+![](https://media1.tenor.com/m/MTl2RygQbPIAAAAC/billie-billie-eilish.gif)
+
+
+
